@@ -5,5 +5,8 @@
     <file url="file://$PROJECT_DIR$/springcloud-eureka-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka-register" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-feign-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-feign-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-feign-register" charset="UTF-8" />
   </component>
 </project>

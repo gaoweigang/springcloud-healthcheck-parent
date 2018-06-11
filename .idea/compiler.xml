@@ -10,6 +10,10 @@
         <module name="springcloud-eureka-provider" />
         <module name="springcloud-eureka-register" />
         <module name="springcloud-eureka-server" />
+        <module name="springcloud-feign" />
+        <module name="springcloud-feign-consumer" />
+        <module name="springcloud-feign-provider" />
+        <module name="springcloud-feign-register" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -18,6 +22,10 @@
       <module name="springcloud-eureka-provider" target="1.5" />
       <module name="springcloud-eureka-register" target="1.5" />
       <module name="springcloud-eureka-server" target="1.5" />
+      <module name="springcloud-feign" target="1.5" />
+      <module name="springcloud-feign-consumer" target="1.5" />
+      <module name="springcloud-feign-provider" target="1.5" />
+      <module name="springcloud-feign-register" target="1.5" />
       <module name="springcloud-parent" target="1.5" />
     </bytecodeTargetLevel>
   </component>

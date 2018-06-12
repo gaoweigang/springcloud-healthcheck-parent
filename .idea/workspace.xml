@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb2f946a-5667-48c2-b7a4-274ad55b1aeb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springcloud-feign-consumer/study.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springcloud-feign-consumer/study.txt" afterPath="$PROJECT_DIR$/springcloud-feign-consumer/study.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,7 +23,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="study.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springcloud-feign-consumer/study.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -439,164 +449,7 @@
             <path>
               <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-eureka-register" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-eureka-register" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-eureka-register" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-eureka-register" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
               <item name="springcloud-feign-consumer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-feign-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-feign-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-feign-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-feign-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-feign-provider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-feign-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-feign-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-feign-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-feign-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-feign-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-feign-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-feign-register" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-feign-register" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-feign-register" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-feign-register" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-feign-register" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-feign-register" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-feign-register" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -834,15 +687,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528695946454</updated>
-      <workItem from="1528695956818" duration="16258000" />
+      <workItem from="1528695956818" duration="16375000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16258000" />
+    <option name="totallyTimeSpent" value="16375000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -864,7 +718,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34901366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34901366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289256" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1215,8 +1069,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-feign-consumer/study.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="55" lean-forward="false" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+        <state relative-caret-position="170">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           <folding />
         </state>
       </provider>

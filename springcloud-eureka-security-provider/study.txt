@@ -1,3 +1,0 @@
-启用安全验证之后
-1.异常
-DiscoveryClient_SERVICE-HI/10.5.41.64:service-hi:8762 - was unable to refresh its cache! status = Cannot execute request on any known server

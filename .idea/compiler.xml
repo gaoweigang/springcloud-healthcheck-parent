@@ -6,27 +6,32 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springcloud-eureka" />
+        <module name="springcloud-eureka-consumer" />
         <module name="springcloud-eureka-provider" />
-        <module name="springcloud-eureka-register" />
-        <module name="springcloud-eureka-server" />
-        <module name="springcloud-feign" />
+        <module name="springcloud-eureka-registerCenterNodeOne" />
+        <module name="springcloud-eureka-registerCenterNodeThree" />
+        <module name="springcloud-eureka-registerCenterNodeTwo" />
+        <module name="springcloud-eureka-security-provider" />
+        <module name="springcloud-eureka-security-register" />
         <module name="springcloud-feign-consumer" />
         <module name="springcloud-feign-provider" />
         <module name="springcloud-feign-register" />
+        <module name="springcloud-test" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="springcloud-eureka" target="1.5" />
-      <module name="springcloud-eureka-client" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="springcloud-eureka-consumer" target="1.5" />
       <module name="springcloud-eureka-provider" target="1.5" />
-      <module name="springcloud-eureka-register" target="1.5" />
-      <module name="springcloud-eureka-server" target="1.5" />
-      <module name="springcloud-feign" target="1.5" />
+      <module name="springcloud-eureka-registerCenterNodeOne" target="1.5" />
+      <module name="springcloud-eureka-registerCenterNodeThree" target="1.5" />
+      <module name="springcloud-eureka-registerCenterNodeTwo" target="1.5" />
+      <module name="springcloud-eureka-security-provider" target="1.5" />
+      <module name="springcloud-eureka-security-register" target="1.5" />
       <module name="springcloud-feign-consumer" target="1.5" />
       <module name="springcloud-feign-provider" target="1.5" />
       <module name="springcloud-feign-register" target="1.5" />
       <module name="springcloud-parent" target="1.5" />
+      <module name="springcloud-test" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

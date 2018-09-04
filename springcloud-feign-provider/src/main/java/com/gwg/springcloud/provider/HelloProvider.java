@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Created by
+ * 在SpringCloud Eureka中，Restful接口 作为服务的提供者
  */
 @RestController
 public class HelloProvider {
